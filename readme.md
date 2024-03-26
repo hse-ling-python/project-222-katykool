@@ -1,6 +1,6 @@
 Это бот-игра Кати Шерстневой, разработанный в качестве итогового проекта по программированию. 
 
-### Играй по [ссылке](t.me/vecGuessr_bot)
+### Играй по [ссылке](https://t.me/vecGuessr_bot)
 
 Бот основан на *векторной модели*. Использованная модель скачана с [NLPL Word Vectors Repository](http://vectors.nlpl.eu/repository/). Модель (ruwikiruscorpora_upos_skipgram_300_2_2019) обучена на НКРЯ и русской Википедии 2018 года. 
 [Ссылка](http://vectors.nlpl.eu/repository/20/182.zip) на скачивание модели.
