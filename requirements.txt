@@ -1,0 +1,4 @@
+aiogram==3.4.1
+gensim==4.3.2
+pymorphy2==0.9.1
+wget==3.2
